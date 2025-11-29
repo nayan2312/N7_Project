@@ -1,0 +1,17 @@
+
+.stroke-white\/10 {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.1);
+}
+.cb7-gradient-outline {
+  color: transparent;
+  -webkit-text-stroke: 4px transparent;
+  background: linear-gradient(106.53deg, #00B4FD -5.68%, #003ACE 86.98%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  opacity: 0.1; /* subtle like your screenshot */
+}
+.cb7-outline {
+  color: transparent;
+  -webkit-text-stroke: 4px #4A8DF7;
+  opacity: 0.08; /* makes it subtle like in the screenshot */
+}
